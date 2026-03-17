@@ -11,7 +11,7 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 1.Start the programe
+1.Start the programe
 
 2.Import the required libraries such as pandas and sklearn.
 
